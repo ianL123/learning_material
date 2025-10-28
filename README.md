@@ -8,6 +8,10 @@
 |**MATH0011 Python.ipynb**|Python的最基础知识整理|
 |**数学分析.pdf**|分析的初级部分，介绍了数列、级数和函数在分析中的基本处理方法|
 
+You may find these materials might be helpful for UCL students on:  
+1) Algebra
+2) Analysis
+
 ## 题目
 
 |文件名|描述|

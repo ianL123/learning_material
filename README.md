@@ -11,6 +11,7 @@
 |**COMP0008CA&C.pdf**|以MIPS32为主题介绍了汇编相关知识和以Java为例子的并发相关知识|
 |**COMP0009Logic.pdf**|命题、一阶、模态、时序、代数逻辑，分析树在前三种中的使用|
 |**COMP0141Security.pdf**|计算机安全相关常识|
+|**noteMLVC.pdf**|机器学习-以视觉处理模型为例|
 
 
 You may find these materials might be helpful for UCL students on:  
@@ -18,8 +19,9 @@ You may find these materials might be helpful for UCL students on:
 2) Analysis
 3) Logic
 4) Security
-5) Computer Architecture and Concurrency
-6) Lean
+5) Machine Learning
+6) Computer Architecture and Concurrency
+7) Lean
 
 ## 题目
 

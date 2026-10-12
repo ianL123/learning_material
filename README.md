@@ -6,10 +6,12 @@
 |--|--|
 |**MATH0005,0006Algebra1,2.pdf**|代数笔记，主要是矩阵、群、域的有关知识点|
 |**MATH0011 Python.ipynb**|Python的最基础知识整理|
+|**MATH0030matheco.pdf**|在生态中的数学方法|
 |**数学分析.pdf**|分析的初级部分，介绍了数列、级数和函数在分析中的基本处理方法|
 |**note.lean**|基于Lean4的基础教程|
 |**COMP0008CA&C.pdf**|以MIPS32为主题介绍了汇编相关知识和以Java为例子的并发相关知识|
 |**COMP0009Logic.pdf**|命题、一阶、模态、时序、代数逻辑，分析树在前三种中的使用|
+|**COMP0022note.pdf**|数据库相关基础知识|
 |**COMP0141Security.pdf**|计算机安全相关常识|
 |**noteMLVC.pdf**|机器学习-以视觉处理模型为例|
 
@@ -21,7 +23,8 @@ You may find these materials might be helpful for UCL students on:
 4) Security
 5) Machine Learning
 6) Computer Architecture and Concurrency
-7) Lean
+7) Database
+8) Lean
 
 ## 题目
 
